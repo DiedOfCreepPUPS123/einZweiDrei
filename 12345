@@ -1,0 +1,39 @@
+<html>
+    <head>
+        <a style="color:white" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Абсолютно Секретно</a>
+        <p></p>
+        <h1 style="background-color:black;color:white">Різноманітні комп'ютерні ігри.</h1>
+        <title>Різноманітні комп'ютерні ігри.</title>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body style="background-color:grey">
+        <table>
+            <tr>
+                 <a style="color:white;background-color:black" href="https://store.steampowered.com/app/412020/Metro_Exodus/">Metro Exodus</a>
+                 <p></p>
+                 <a style="color:white;background-color:black" href="https://store.steampowered.com/app/264710/Subnautica/">Subnautica</a>
+                 <p></p>
+                                  <a style="color:white;background-color:black" href="https://store.steampowered.com/app/242760/The_Forest/">The Forest</a>
+                                  <p></p>
+                                                          <a style="color:white;background-color:black" href="https://store.steampowered.com/app/620/Portal_2/?l=ukrainian">Portal 2</a>    
+                <td style="color:white;background-color:black;font-size:50px">Metro Exodus<br><img src="https://www.overclockers.ua/news/games/120484-Metro-Exodus-1.jpg" height="250"/><img src="https://cdn.akamai.steamstatic.com/steam/apps/412020/ss_7ef17676a804b0d646c38583ba0f68f33b3f3d9e.1920x1080.jpg?t=1706778291"height="250"/><img src="https://cdn.akamai.steamstatic.com/steam/apps/412020/ss_bd875dbf865e70cda73a7cd6b132cadacfdb768b.1920x1080.jpg?t=1706778291" height="250"><img src="https://cdn.akamai.steamstatic.com/steam/apps/412020/ss_2f9ec7b918c28b2b57fd5cb4b5be061a6e59a863.1920x1080.jpg?t=1706778291" height="250"><p style="font-size:25px">Metro Exodus це комп'ютерна гра в якій можна побачити всі тяжкості Апокалипса,розробники цієї гри українці.В цієй грі є дуже богато локацій такі як Новосибирск, Тайга, Волга та т.д, також ціна цієї гри без знижок ставить 799грн.</p></td>
+            </tr>
+            <tr>
+                <td style="color:white;background-color:black;font-size:50px">Subnautica<br><img src="https://preview.redd.it/9f8eequrq2p81.jpg?auto=webp&s=d432ea0ca15e38b0ba0ca027969aafdff762a9cb" height="250"/><img src="https://cdn.akamai.steamstatic.com/steam/apps/264710/ss_883a98ad56021ce409219e1b749818866b6115cd.1920x1080.jpg?t=1700522118" height="250"/><img src="https://cdn.akamai.steamstatic.com/steam/apps/264710/ss_5f2f2ea498cdc632cbffd6cf37c1a09670eb3272.1920x1080.jpg?t=1700522118" height="250"><img src="https://www.dexerto.com/cdn-cgi/image/width=3840,quality=75,format=auto/https://editors.dexerto.com/wp-content/uploads/2022/04/27/Subnautica-locations-squid.jpeg" height="250"><p style="font-size:25px">Subnautica це комп'ютерна гра, в якій ваш космічний корабль "АВРОРА" терпе аварію, але ви спасаєтесь в спасательной капсулі 5, в якій ви презимляєтесь на планету 4546B, яка на 95% покрита водою.Вам доведеться зустрічатися з різноматними, чудовищами такі, як, Левіофанами, Стражами, Кальмаро крабами та т.д.Ціна гри без знижок ставить 749грн.</p></td>
+            </tr>
+                        <tr>
+                <td style="color:white;background-color:black;font-size:50px">The Forest<br><img src="https://cdn.akamai.steamstatic.com/steam/apps/242760/ss_d03a261fecab226a0ecac5746225c2a50d65c670.1920x1080.jpg?t=1699381053" height="250"/><img src="https://cdn.akamai.steamstatic.com/steam/apps/242760/ss_772eebf0ce7bdb51546055a36185e8ee46e8acac.1920x1080.jpg?t=1699381053" height="250"/><img src="https://cdn.akamai.steamstatic.com/steam/apps/242760/ss_e50b7c8bc2f4720859ba13aa32703661192f4d62.1920x1080.jpg?t=1699381053" height="250"><img src="https://cdn.akamai.steamstatic.com/steam/apps/242760/ss_233e1d0c71f1bc2d5cdeb96fa3f8974f0ab5e95d.1920x1080.jpg?t=1699381053" height="250"><p style="font-size:25px"> The Forest це комп'ютерна гра про виживання, з елементами хоррора.В цій грі ви разом із вашим сином летите в літаку, який попадає в передрягу, та падає, ви виживаєте, але вашого сина уносить чудовище. В цієй грі ви рубите дерев'я, досліджуєте пещери, з монстрами, відбиваєтесь від канібалов та мутантов.Ціна гри без знижок ставить 279грн.</p></td>
+            </tr>
+             <tr>
+                <td style="color:white;background-color:black;font-size:50px">Portal 2<br><img src="https://cdn.akamai.steamstatic.com/steam/apps/620/ss_358127df30a766a1516ad139083c2bcec3fe0975.1920x1080.jpg?t=1698805825" height="250"/><img src="https://cdn.akamai.steamstatic.com/steam/apps/620/ss_6a4f5afdaa98402de9cf0b59fed27bab3256a6f4.1920x1080.jpg?t=1698805825" height="250"/><img src="https://cdn.akamai.steamstatic.com/steam/apps/620/ss_f3f6787d74739d3b2ec8a484b5c994b3d31ef325.1920x1080.jpg?t=1698805825" height="250"><img src="https://cdn.akamai.steamstatic.com/steam/apps/620/ss_3d13161104a04603a0524536770c5f74626db4c0.1920x1080.jpg?t=1698805825" height="250"><p style="font-size:25px">Portal 2 комп'ютерна гра, в якій основна концепція це портали, з допомогою яких ви можете розв'язувати різноманітні загадки та головоломки, головоломки бувають абсолютно різними, бувають з смертельними лазерами, бувають и кубами, бувать просто із кубами, а бувають також головоломки в яких є усе вище перечислене.Ціна гри без знижок 225грн.</p></td>
+            </tr>
+        </table>
+        <main>
+        </main>
+    </body>
+    
+    <footer>
+
+    </footer>
+</html>
